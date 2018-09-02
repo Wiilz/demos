@@ -1,2 +1,3 @@
-# wktadmin.github.io
-hexo博客(迁移出现问题, 不更新）
+# Creating-a-RESTFul-API-in-Flask
+for : Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy
+https://www.youtube.com/watch?v=WxGBoY5iNXY
