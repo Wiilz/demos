@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>短域名</title>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <style>
+        .col-center-block {
+            float: none;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .page-header-block {
+            border: none;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <ul class="nav nav-tabs">
+        <li role="presentation" class="active"><a href="#">Home</a></li>
+        <li role="presentation"><a href="#"></a></li>
+        <li role="presentation"><a href="#"></a></li>
+    </ul>
+
+    <div class="page-header page-header-block">
+        <h1>
+            <small></small>
+        </h1>
+    </div>
+    <div class="row">
+        <form class="col-xs-6 col-md-4 col-center-block" role="form">
+
+            <div class="input-group">
+                <span class="input-group-btn">
+                <input type="text" class="form-control" id='inputme' placeholder="将您的网址粘贴到此处">
+	         	<button type="button" class="btn btn-primary" id="clickme" data-toggle="modal" data-target="#myModal">点击生成</button>
+	         </span>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">请复制短域名</h4>
+            </div>
+            <div class="modal-body" id="result">稍等...</div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                <!--<button type="button" class="btn btn-primary">提交更改</button>-->
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal -->
+</div>
+
+</body>
+</html>
+<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+
+    var o_button = $('#clickme');
+    var o_result = $('#result');
+    var o_title = $('#myModalLabel');
+    o_button.click(sendData);
+
+    function sendData() {
+        var url_value = $('#inputme').val();
+
+        if (url_value == '') {
+            o_title.html('要有网址呦');
+            o_result.html('要有网址呦');
+            console.log('要有网址哟， 兄弟');
+            return
+        }
+        $.ajax({
+            url: 'http://wkt.ooo/api/short',
+            type: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify({
+                long_url: url_value,
+            }),
+            success: function (recv_data) {
+                o_title.html('复制一下吧');
+                o_result.html(recv_data.url);
+                console.log('ok')
+            },
+            error: function (recv) {
+                o_title.html('网络异常');
+                o_result.html('出错类')
+            },
+            dataType: 'json'
+        });
+    }
+
+</script>
