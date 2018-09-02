@@ -8,8 +8,8 @@ from flask import Flask, request, abort, redirect, jsonify, Blueprint
 from accesstoken import AccessToken
 app = Flask(__name__)
 message = Blueprint(__name__, 'message')
-appid = 'wxa0f8e47c1c5eb934'
-appsecret = '6db481ba38324f9318f658df4724b893'
+appid = ''
+appsecret = ''
 
 
 @message.before_request

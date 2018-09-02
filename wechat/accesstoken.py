@@ -2,8 +2,8 @@
 import time
 
 import requests
-appid = 'wxa0f8e47c1c5eb934'
-appsecret = '6db481ba38324f9318f658df4724b893'
+appid  = ''
+appsecret = ''
 
 
 class AccessToken(object):
