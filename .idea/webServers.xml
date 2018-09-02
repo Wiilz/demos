@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8379567a-254a-44de-8a37-5c8d2dbec409" name="wechat" url="http://wx.wktadmin.com">
+        <fileTransfer host="149.28.103.19" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/wukt/tools/wechat" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
