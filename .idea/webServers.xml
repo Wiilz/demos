@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d069a4c1-f383-4829-a59c-95a34747bab0" name="178.128.19.79" url="http://178.128.19.79">
+        <fileTransfer host="178.128.19.79" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/root/tools/scrapy" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

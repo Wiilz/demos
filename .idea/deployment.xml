@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="PublishConfigData" serverName="178.128.19.79" />
+=======
+  <component name="PublishConfigData" serverName="178.128.19.79">
+    <serverData>
+      <paths name="178.128.19.79">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+>>>>>>> master
 </project>
