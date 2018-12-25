@@ -1,0 +1,66 @@
+2018-12-24 23:08:54 [root] ERROR: Couldn't find
+2018-12-24 23:08:54 [root] ERROR: Couldn't find
+2018-12-24 23:08:55 [root] ERROR: Couldn't find
+2018-12-24 23:08:55 [root] ERROR: Couldn't find
+2018-12-24 23:08:59 [root] ERROR: Couldn't find
+2018-12-24 23:09:00 [root] ERROR: Couldn't find
+2018-12-24 23:09:01 [root] ERROR: Couldn't find
+2018-12-24 23:09:02 [root] ERROR: Couldn't find
+2018-12-24 23:09:02 [root] ERROR: Couldn't find
+2018-12-24 23:09:02 [root] ERROR: Couldn't find
+2018-12-24 23:09:03 [root] ERROR: Couldn't find
+2018-12-24 23:09:05 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in https://www.bturl.so/search/%E5%A4%A7%E5%AB%82_ctime_1.html. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests
+2018-12-24 23:09:05 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in https://www.bturl.so/search/%E7%88%B1%E6%83%85_ctime_2.html. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests
+2018-12-25 01:00:47 [root] ERROR: Couldn't find
+2018-12-25 01:00:55 [root] ERROR: Couldn't find
+2018-12-25 01:22:57 [py.warnings] WARNING: /home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'source_list' at row 1")
+  result = self._query(query)
+
+2018-12-25 03:56:43 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.bturl.so/60380F524CA070B3B7A016DB82E6AC1850DCE709.html> (referer: https://www.bturl.so/search/journeyman_ctime_1.html)
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/spidermiddlewares/offsite.py", line 30, in process_spider_output
+    for x in result:
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/spidermiddlewares/referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/spidermiddlewares/depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/home/wukt/PycharmProjects/bt_spider/bt/spiders/btspider.py", line 35, in parse
+    item['source_link'] = source_infos.re('(magnet.*?)\"')[0].strip()
+IndexError: list index out of range
+2018-12-25 05:49:23 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.bturl.so/04777E8676CD94F6E4EBAE42CFD0EDD2BFA2FC87.html>
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2018-12-25 05:51:50 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.bturl.so/DADA6B976AA405DAC89000AF2DC8E95466F8F9B6.html>
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2018-12-25 05:52:10 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.bturl.so/7F941611E981A9EBD07A8EE446F8D78299D00353.html>
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2018-12-25 07:43:15 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.bturl.so/ED64F7A1E2B19B22D2C289A2377E5488081936C9.html>
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2018-12-25 07:51:18 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.bturl.so/search/%E6%A1%90%E5%8E%9F_ctime_1.html>
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/twisted/internet/defer.py", line 1416, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/twisted/python/failure.py", line 491, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/scrapy/core/downloader/handlers/http11.py", line 351, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+twisted.internet.error.TimeoutError: User timeout caused connection failure: Getting https://www.bturl.so/search/%E6%A1%90%E5%8E%9F_ctime_1.html took longer than 180.0 seconds..

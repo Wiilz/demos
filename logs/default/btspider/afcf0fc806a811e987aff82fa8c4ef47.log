@@ -1,0 +1,1066 @@
+2018-12-23 19:48:47 [scrapy.core.scraper] ERROR: Error processing {'create_time': '2018-12-22',
+ 'old_link': 'https://www.bturl.so/07491DF347AEB2246AC458A8C0DEB9F09A2DBB45.html',
+ 'source_hot': '1',
+ 'source_link': 'magnet:?xt=urn:btih:07491DF347AEB2246AC458A8C0DEB9F09A2DBB45',
+ 'source_list': '[{"name": "\\u5a5a\\u793c\\u89c6\\u9891/2018-11-18 '
+                '\\u559c\\u6d0b\\u9633 \\u738b\\u7ef4\\u52c7 \\u9648\\u601d '
+                'FHD.mp4", "size": "3.9 GB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0330.jpg", "size": '
+                '"10.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0344.jpg", "size": "9.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0338.jpg", "size": '
+                '"9.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0332.jpg", "size": "9.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0359.jpg", "size": "9.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0351.jpg", "size": '
+                '"8.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0213.jpg", "size": "8.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0232.jpg", "size": '
+                '"8.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0212.jpg", "size": "8.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0234.jpg", "size": '
+                '"8.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0007.jpg", "size": "8.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0245.jpg", "size": "8.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0252.jpg", "size": "8.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0291.jpg", "size": '
+                '"7.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0294.jpg", "size": "7.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0380.jpg", "size": "7.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0292.jpg", "size": '
+                '"7.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0180.jpg", "size": "7.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0388.jpg", "size": "7.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0434.jpg", "size": '
+                '"7.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0227.jpg", "size": "7.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0058.jpg", "size": "7.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0104.jpg", "size": "7.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0494.jpg", "size": '
+                '"7.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0251.jpg", "size": "7.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0201.jpg", "size": "7.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0013.jpg", "size": "7.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0392.jpg", "size": "7.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0176.jpg", "size": "7.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0408.jpg", "size": '
+                '"7.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0056.jpg", "size": "7.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0070.jpg", "size": "7.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0021.jpg", "size": "7.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0130.jpg", "size": "7.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0295.jpg", "size": '
+                '"7.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0064.jpg", "size": "7.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0481.jpg", "size": '
+                '"7.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0103.jpg", "size": "6.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0281.jpg", "size": "6.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0199.jpg", "size": '
+                '"6.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0359.jpg", "size": "6.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0288.jpg", "size": "6.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0233.jpg", "size": '
+                '"6.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0477.jpg", "size": "6.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0027.jpg", "size": "6.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0168.jpg", "size": "6.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0192.jpg", "size": "6.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0478.jpg", "size": '
+                '"6.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0040.jpg", "size": "6.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0472.jpg", "size": '
+                '"6.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0217.jpg", "size": "6.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0527.jpg", "size": '
+                '"6.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0524.jpg", "size": "6.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0473.jpg", "size": '
+                '"6.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0507.jpg", "size": "6.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0519.jpg", "size": '
+                '"6.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0203.jpg", "size": "6.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0301.jpg", "size": '
+                '"6.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0194.jpg", "size": "6.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0484.jpg", "size": '
+                '"6.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0297.jpg", "size": "6.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0393.jpg", "size": '
+                '"6.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0515.jpg", "size": "6.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0483.jpg", "size": '
+                '"6.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0213.jpg", "size": "6.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0493.jpg", "size": '
+                '"6.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0129.jpg", "size": "6.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0503.jpg", "size": '
+                '"6.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0500.jpg", "size": "6.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0230.jpg", "size": '
+                '"6.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0411.jpg", "size": "6.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0450.jpg", "size": '
+                '"6.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0043.jpg", "size": "6.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0443.jpg", "size": '
+                '"6.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0512.jpg", "size": "6.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0039.jpg", "size": "6.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0436.jpg", "size": '
+                '"6.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0046.jpg", "size": "6.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0271.jpg", "size": "6.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0435.jpg", "size": '
+                '"6.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0517.jpg", "size": "6.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0397.jpg", "size": '
+                '"6.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0245.jpg", "size": "6.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0497.jpg", "size": '
+                '"6.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0264.jpg", "size": "6.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0438.jpg", "size": '
+                '"6.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0007.jpg", "size": "6.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0208.jpg", "size": "6.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0214.jpg", "size": '
+                '"6.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0407.jpg", "size": "6.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0248.jpg", "size": "6.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0479.jpg", "size": '
+                '"6.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0489.jpg", "size": "6.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0242.jpg", "size": '
+                '"6.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0212.jpg", "size": "6.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0487.jpg", "size": '
+                '"6.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0426.jpg", "size": "6.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0016.jpg", "size": '
+                '"6.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0488.jpg", "size": "6.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0474.jpg", "size": '
+                '"6.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0366.jpg", "size": "6.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0299.jpg", "size": '
+                '"6.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0452.jpg", "size": "6.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0252.jpg", "size": '
+                '"6.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0037.jpg", "size": "6.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0017.jpg", "size": '
+                '"6.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0447.jpg", "size": "6.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0480.jpg", "size": '
+                '"6.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0008.jpg", "size": "6.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0476.jpg", "size": '
+                '"6.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0012.jpg", "size": "5.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0486.jpg", "size": '
+                '"5.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0467.jpg", "size": "5.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0471.jpg", "size": '
+                '"5.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0057.jpg", "size": "5.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0485.jpg", "size": '
+                '"5.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0459.jpg", "size": "5.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0157.jpg", "size": '
+                '"5.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0369.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0391.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0323.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0058.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0380.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0461.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0319.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0020.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0423.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0379.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0160.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0159.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0417.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0451.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0243.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0398.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0492.jpg", "size": "5.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0220.jpg", "size": '
+                '"5.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0026.jpg", "size": "5.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0490.jpg", "size": '
+                '"5.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0419.jpg", "size": "5.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0042.jpg", "size": "5.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0273.jpg", "size": "5.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0475.jpg", "size": '
+                '"5.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0290.jpg", "size": "5.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0392.jpg", "size": '
+                '"5.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0227.jpg", "size": "5.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0370.jpg", "size": '
+                '"5.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0148.jpg", "size": "5.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0177.jpg", "size": '
+                '"5.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0116.jpg", "size": "5.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0047.jpg", "size": '
+                '"5.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0388.jpg", "size": "5.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0455.jpg", "size": '
+                '"5.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0038.jpg", "size": "5.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0386.jpg", "size": '
+                '"5.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0453.jpg", "size": "5.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0385.jpg", "size": '
+                '"5.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0156.jpg", "size": "5.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0205.jpg", "size": '
+                '"5.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0141.jpg", "size": "5.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0152.jpg", "size": '
+                '"5.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0182.jpg", "size": "5.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0251.jpg", "size": '
+                '"5.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0191.jpg", "size": "5.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0010.jpg", "size": '
+                '"5.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0200.jpg", "size": "5.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0469.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0144.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0115.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0180.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0146.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0415.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0137.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0317.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0454.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0360.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0142.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0314.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0482.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0021.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0013.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0139.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0211.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0153.jpg", "size": "5.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0147.jpg", "size": '
+                '"5.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0462.jpg", "size": "5.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0109.jpg", "size": '
+                '"5.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0186.jpg", "size": "5.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0102.jpg", "size": '
+                '"5.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0201.jpg", "size": "5.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0009.jpg", "size": '
+                '"5.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0154.jpg", "size": "5.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0150.jpg", "size": '
+                '"5.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0138.jpg", "size": "5.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0145.jpg", "size": '
+                '"5.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0140.jpg", "size": "5.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0097.jpg", "size": '
+                '"5.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0151.jpg", "size": "5.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0185.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0175.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0100.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0250.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0378.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0367.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0036.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0155.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0163.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0014.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0277.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0215.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0158.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0071.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0283.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0117.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0491.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0056.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0143.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0022.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0275.jpg", "size": '
+                '"5.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0149.jpg", "size": "5.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0377.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0035.jpg", "size": "5.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0104.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0316.jpg", "size": "5.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0284.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0174.jpg", "size": "5.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0176.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0286.jpg", "size": "5.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0416.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0034.jpg", "size": "5.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0173.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0134.jpg", "size": "5.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0409.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0282.jpg", "size": "5.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0006.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0087.jpg", "size": "5.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0285.jpg", "size": '
+                '"5.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0276.jpg", "size": "5.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0249.jpg", "size": '
+                '"5.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0389.jpg", "size": "5.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0089.jpg", "size": '
+                '"5.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0448.jpg", "size": "5.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0064.jpg", "size": '
+                '"5.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0063.jpg", "size": "5.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0130.jpg", "size": '
+                '"5.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0289.jpg", "size": "5.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0231.jpg", "size": '
+                '"5.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0206.jpg", "size": "5.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0107.jpg", "size": '
+                '"5.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0470.jpg", "size": "5.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0061.jpg", "size": '
+                '"5.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0105.jpg", "size": "5.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0072.jpg", "size": '
+                '"5.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0113.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0028.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0167.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0059.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0281.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0070.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0062.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0111.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0049.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0238.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0060.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0054.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0288.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0463.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0103.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0136.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0090.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0209.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0304.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0027.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0112.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0363.jpg", "size": '
+                '"4.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0091.jpg", "size": "4.9 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0410.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0189.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0040.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0099.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0045.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0401.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0018.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0190.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0066.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0131.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0074.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0183.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0465.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0326.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0032.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0255.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0421.jpg", "size": "4.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0033.jpg", "size": '
+                '"4.8 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0001.jpg", "size": "4.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0085.jpg", "size": '
+                '"4.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0002.jpg", "size": "4.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0124.jpg", "size": '
+                '"4.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0267.jpg", "size": "4.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0192.jpg", "size": '
+                '"4.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0088.jpg", "size": "4.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0279.jpg", "size": '
+                '"4.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0019.jpg", "size": "4.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0031.jpg", "size": '
+                '"4.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0133.jpg", "size": "4.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0098.jpg", "size": '
+                '"4.7 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0029.jpg", "size": "4.7 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0096.jpg", "size": '
+                '"4.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0193.jpg", "size": "4.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0094.jpg", "size": '
+                '"4.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0194.jpg", "size": "4.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0128.jpg", "size": '
+                '"4.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0030.jpg", "size": "4.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0025.jpg", "size": '
+                '"4.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0240.jpg", "size": "4.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0125.jpg", "size": '
+                '"4.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0077.jpg", "size": "4.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0168.jpg", "size": '
+                '"4.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0310.jpg", "size": "4.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0372.jpg", "size": '
+                '"4.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0093.jpg", "size": "4.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0048.jpg", "size": '
+                '"4.6 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0075.jpg", "size": "4.6 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0092.jpg", "size": '
+                '"4.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0086.jpg", "size": "4.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0196.jpg", "size": '
+                '"4.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0039.jpg", "size": "4.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0422.jpg", "size": '
+                '"4.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0078.jpg", "size": "4.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0068.jpg", "size": '
+                '"4.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0272.jpg", "size": "4.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0239.jpg", "size": '
+                '"4.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0119.jpg", "size": "4.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0129.jpg", "size": '
+                '"4.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0108.jpg", "size": "4.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0265.jpg", "size": '
+                '"4.5 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0271.jpg", "size": "4.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0228.jpg", "size": '
+                '"4.5 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/\\u7cbe\\u9009/IB18 ZSM '
+                '0259.jpg", "size": "4.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0263.jpg", "size": '
+                '"4.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0165.jpg", "size": "4.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0264.jpg", "size": '
+                '"4.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0258.jpg", "size": "4.4 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0248.jpg", "size": '
+                '"4.4 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0003.jpg", "size": "4.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0166.jpg", "size": '
+                '"4.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0195.jpg", "size": "4.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0120.jpg", "size": '
+                '"4.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0207.jpg", "size": "4.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0135.jpg", "size": '
+                '"4.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0197.jpg", "size": "4.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0428.jpg", "size": '
+                '"4.3 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0044.jpg", "size": "4.3 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0122.jpg", "size": '
+                '"4.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0043.jpg", "size": "4.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0208.jpg", "size": '
+                '"4.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0046.jpg", "size": "4.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0414.jpg", "size": '
+                '"4.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0273.jpg", "size": "4.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0210.jpg", "size": '
+                '"4.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0278.jpg", "size": "4.2 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0042.jpg", "size": '
+                '"4.2 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0005.jpg", "size": "4.1 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0123.jpg", "size": '
+                '"4.1 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0172.jpg", "size": "4.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0247.jpg", "size": '
+                '"4.0 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0260.jpg", "size": "4.0 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0259.jpg", "size": '
+                '"3.9 MB"}, {"name": "\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM '
+                '0041.jpg", "size": "3.8 MB"}, {"name": '
+                '"\\u5a5a\\u793c\\u7167\\u7247/IB18 ZSM 0018.jpg", "size": '
+                '"3.3 MB"}, {"name": "2018-11-18 \\u559c\\u6d0b\\u9633 '
+                '\\u738b\\u7ef4\\u52c7 \\u9648\\u601d '
+                '\\u5728\\u7ebf\\u5907\\u4efd\\u53ca\\u5206\\u4eab\\u8d26\\u53f7.txt", '
+                '"size": "600 bytes"}, {"name": "\\u81f4\\u65b0\\u4eba.txt", '
+                '"size": "397 bytes"}]',
+ 'source_name': '2018-11-18 喜洋阳 王维勇 陈思（钟四美摄影，陈文摄像）',
+ 'source_size': '5.9 GB'}
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1193, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 509, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry 'https://www.bturl.so/07491DF347AEB2246AC458A8C0DEB9F09A2DBB45.ht' for key 'old_link'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/wukt/PycharmProjects/bt_spider/bt/pipelines.py", line 51, in process_item
+    self.sess.commit()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 954, in commit
+    self.transaction.commit()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 467, in commit
+    self._prepare_impl()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 447, in _prepare_impl
+    self.session.flush()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2313, in flush
+    self._flush(objects)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2440, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 249, in reraise
+    raise value
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2404, in _flush
+    flush_context.execute()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 395, in execute
+    rec.execute(self)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 560, in execute
+    uow
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 181, in save_obj
+    mapper, table, insert)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 872, in _emit_insert_statements
+    execute(statement, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 948, in execute
+    return meth(self, multiparams, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 269, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1060, in _execute_clauseelement
+    compiled_sql, distilled_params
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1200, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1413, in _handle_dbapi_exception
+    exc_info
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 265, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 248, in reraise
+    raise value.with_traceback(tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1193, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 509, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry 'https://www.bturl.so/07491DF347AEB2246AC458A8C0DEB9F09A2DBB45.ht' for key 'old_link'") [SQL: 'INSERT INTO links (source_name, create_time, source_size, source_link, source_list, source_hot, old_link, insert_time, item_id) VALUES (%(source_name)s, %(create_time)s, %(source_size)s, %(source_link)s, %(source_list)s, %(source_hot)s, %(old_link)s, %(insert_time)s, %(item_id)s)'] [parameters: {'source_hot': '1', 'source_name': '2018-11-18 喜洋阳 王维勇 陈思（钟四美摄影，陈文摄像）', 'source_list': '[{"name": "\\u5a5a\\u793c\\u89c6\\u9891/2018-11-18 \\u559c\\u6d0b\\u9633 \\u738b\\u7ef4\\u52c7 \\u9648\\u601d FHD.mp4", "size": "3.9 GB"}, {"name": " ... (29485 characters truncated) ... u5728\\u7ebf\\u5907\\u4efd\\u53ca\\u5206\\u4eab\\u8d26\\u53f7.txt", "size": "600 bytes"}, {"name": "\\u81f4\\u65b0\\u4eba.txt", "size": "397 bytes"}]', 'create_time': '2018-12-22', 'old_link': 'https://www.bturl.so/07491DF347AEB2246AC458A8C0DEB9F09A2DBB45.html', 'source_link': 'magnet:?xt=urn:btih:07491DF347AEB2246AC458A8C0DEB9F09A2DBB45', 'source_size': '5.9 GB', 'item_id': None, 'insert_time': datetime.datetime(2018, 12, 23, 19, 48, 47, 206156)}] (Background on this error at: http://sqlalche.me/e/gkpj)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/wukt/PycharmProjects/bt_spider/bt/pipelines.py", line 59, in process_item
+    logging.ERROR("link: {}, exception : {}".format(item['old_link'], e.args))
+TypeError: 'int' object is not callable
+2018-12-23 19:49:07 [scrapy.core.scraper] ERROR: Error processing {'create_time': '2018-12-03',
+ 'old_link': 'https://www.bturl.so/75744E8B4CCDB27DB674FA57F022F1F21CF755A3.html',
+ 'source_hot': '12',
+ 'source_link': 'magnet:?xt=urn:btih:75744E8B4CCDB27DB674FA57F022F1F21CF755A3',
+ 'source_list': '[{"name": '
+                '"\\u201c\\u5feb\\u901f\\u5c04\\u6211\\u91cc\\u9762\\u561b\\u56e0\\u4e3a\\u6211\\u559c\\u6b22\\u201d91\\u5927\\u795e\\u7f55\\u89c1\\u9732\\u8138\\u7ea6\\u70ae\\u676d\\u5dde\\u7f8e\\u5bb9\\u9662\\u77ed\\u53d1\\u6f02\\u4eae\\u6b63\\u59b9\\u7279\\u610f\\u4e70\\u6765\\u8fd0\\u52a8\\u670d\\u7a7f\\u4e0a\\u5e72\\u56fd\\u8bed720P\\u9ad8\\u6e05.mp4", '
+                '"size": "324.0 MB"}, {"name": '
+                '"\\u201c\\u5feb\\u901f\\u5c04\\u6211\\u91cc\\u9762\\u561b\\u56e0\\u4e3a\\u6211\\u559c\\u6b22\\u201d91\\u5927\\u795e\\u7f55\\u89c1\\u9732\\u8138\\u7ea6\\u70ae\\u676d\\u5dde\\u7f8e\\u5bb9\\u9662\\u77ed\\u53d1\\u6f02\\u4eae\\u6b63\\u59b9\\u7279\\u610f\\u4e70\\u6765\\u8fd0\\u52a8\\u670d\\u7a7f\\u4e0a\\u5e72\\u56fd\\u8bed720P\\u9ad8\\u6e05_config.xml", '
+                '"size": "3.3 KB"}]',
+ 'source_name': '“快速射我里面嘛因为我喜欢”91大神罕见露脸约炮杭州美容院短发漂亮正妹特意买来运动服穿上干国语720P高清',
+ 'source_size': '324.3 MB'}
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1193, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 509, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry 'https://www.bturl.so/75744E8B4CCDB27DB674FA57F022F1F21CF755A3.ht' for key 'old_link'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/wukt/PycharmProjects/bt_spider/bt/pipelines.py", line 51, in process_item
+    self.sess.commit()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 954, in commit
+    self.transaction.commit()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 467, in commit
+    self._prepare_impl()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 447, in _prepare_impl
+    self.session.flush()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2313, in flush
+    self._flush(objects)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2440, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 249, in reraise
+    raise value
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2404, in _flush
+    flush_context.execute()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 395, in execute
+    rec.execute(self)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 560, in execute
+    uow
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 181, in save_obj
+    mapper, table, insert)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 872, in _emit_insert_statements
+    execute(statement, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 948, in execute
+    return meth(self, multiparams, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 269, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1060, in _execute_clauseelement
+    compiled_sql, distilled_params
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1200, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1413, in _handle_dbapi_exception
+    exc_info
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 265, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 248, in reraise
+    raise value.with_traceback(tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1193, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 509, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry 'https://www.bturl.so/75744E8B4CCDB27DB674FA57F022F1F21CF755A3.ht' for key 'old_link'") [SQL: 'INSERT INTO links (source_name, create_time, source_size, source_link, source_list, source_hot, old_link, insert_time, item_id) VALUES (%(source_name)s, %(create_time)s, %(source_size)s, %(source_link)s, %(source_list)s, %(source_hot)s, %(old_link)s, %(insert_time)s, %(item_id)s)'] [parameters: {'source_hot': '12', 'source_name': '“快速射我里面嘛因为我喜欢”91大神罕见露脸约炮杭州美容院短发漂亮正妹特意买来运动服穿上干国语720P高清', 'source_list': '[{"name": "\\u201c\\u5feb\\u901f\\u5c04\\u6211\\u91cc\\u9762\\u561b\\u56e0\\u4e3a\\u6211\\u559c\\u6b22\\u201d91\\u5927\\u795e\\u7f55\\u89c1\\u9732\\u ... (453 characters truncated) ... e\\u6b63\\u59b9\\u7279\\u610f\\u4e70\\u6765\\u8fd0\\u52a8\\u670d\\u7a7f\\u4e0a\\u5e72\\u56fd\\u8bed720P\\u9ad8\\u6e05_config.xml", "size": "3.3 KB"}]', 'create_time': '2018-12-03', 'old_link': 'https://www.bturl.so/75744E8B4CCDB27DB674FA57F022F1F21CF755A3.html', 'source_link': 'magnet:?xt=urn:btih:75744E8B4CCDB27DB674FA57F022F1F21CF755A3', 'source_size': '324.3 MB', 'item_id': None, 'insert_time': datetime.datetime(2018, 12, 23, 19, 49, 7, 713828)}] (Background on this error at: http://sqlalche.me/e/gkpj)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/wukt/PycharmProjects/bt_spider/bt/pipelines.py", line 59, in process_item
+    logging.ERROR("link: {}, exception : {}".format(item['old_link'], e.args))
+TypeError: 'int' object is not callable
+2018-12-23 19:50:06 [scrapy.core.scraper] ERROR: Error processing {'create_time': '2018-12-22',
+ 'old_link': 'https://www.bturl.so/5E27ADCE81D4B73ECB8B43E41BF333E84F23548C.html',
+ 'source_hot': '14',
+ 'source_link': 'magnet:?xt=urn:btih:5E27ADCE81D4B73ECB8B43E41BF333E84F23548C',
+ 'source_list': '[{"name": '
+                '"Tell.Me.A.Story.US.S01E08.480p.x264-mSD[eztv].mkv", "size": '
+                '"132.6 MB"}]',
+ 'source_name': 'Tell.Me.A.Story.US.S01E08.480p.x264-mSD[eztv].mkv',
+ 'source_size': '132.6 MB'}
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1193, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 509, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry 'https://www.bturl.so/5E27ADCE81D4B73ECB8B43E41BF333E84F23548C.ht' for key 'old_link'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/wukt/PycharmProjects/bt_spider/bt/pipelines.py", line 51, in process_item
+    self.sess.commit()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 954, in commit
+    self.transaction.commit()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 467, in commit
+    self._prepare_impl()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 447, in _prepare_impl
+    self.session.flush()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2313, in flush
+    self._flush(objects)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2440, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 249, in reraise
+    raise value
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2404, in _flush
+    flush_context.execute()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 395, in execute
+    rec.execute(self)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 560, in execute
+    uow
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 181, in save_obj
+    mapper, table, insert)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 872, in _emit_insert_statements
+    execute(statement, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 948, in execute
+    return meth(self, multiparams, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 269, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1060, in _execute_clauseelement
+    compiled_sql, distilled_params
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1200, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1413, in _handle_dbapi_exception
+    exc_info
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 265, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 248, in reraise
+    raise value.with_traceback(tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1193, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 509, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry 'https://www.bturl.so/5E27ADCE81D4B73ECB8B43E41BF333E84F23548C.ht' for key 'old_link'") [SQL: 'INSERT INTO links (source_name, create_time, source_size, source_link, source_list, source_hot, old_link, insert_time, item_id) VALUES (%(source_name)s, %(create_time)s, %(source_size)s, %(source_link)s, %(source_list)s, %(source_hot)s, %(old_link)s, %(insert_time)s, %(item_id)s)'] [parameters: {'source_hot': '14', 'source_name': 'Tell.Me.A.Story.US.S01E08.480p.x264-mSD[eztv].mkv', 'source_list': '[{"name": "Tell.Me.A.Story.US.S01E08.480p.x264-mSD[eztv].mkv", "size": "132.6 MB"}]', 'create_time': '2018-12-22', 'old_link': 'https://www.bturl.so/5E27ADCE81D4B73ECB8B43E41BF333E84F23548C.html', 'source_link': 'magnet:?xt=urn:btih:5E27ADCE81D4B73ECB8B43E41BF333E84F23548C', 'source_size': '132.6 MB', 'item_id': None, 'insert_time': datetime.datetime(2018, 12, 23, 19, 50, 6, 677563)}] (Background on this error at: http://sqlalche.me/e/gkpj)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/wukt/PycharmProjects/bt_spider/bt/pipelines.py", line 59, in process_item
+    logging.ERROR("link: {}, exception : {}".format(item['old_link'], e.args))
+TypeError: 'int' object is not callable
+2018-12-23 19:50:28 [scrapy.core.scraper] ERROR: Error processing {'create_time': '2018-12-21',
+ 'old_link': 'https://www.bturl.so/3BB9AF9F88682B4DECA163E59B37CD7B59D3504C.html',
+ 'source_hot': '10',
+ 'source_link': 'magnet:?xt=urn:btih:3BB9AF9F88682B4DECA163E59B37CD7B59D3504C',
+ 'source_list': '[{"name": "hjd2048.com_181220-15.mp4", "size": "811.1 MB"}, '
+                '{"name": "hjd2048.com_181220-15-5.mp4", "size": "141.4 MB"}, '
+                '{"name": '
+                '"\\u53f0\\u6e7eUU\\u804a\\u5929\\u5ba4\\u7206\\u64cd\\u6781\\u54c1\\u7f8e\\u5973\\u6fc0\\u60c5\\u88f8\\u804a\\u89c6\\u9891-uux29.com.mp4", '
+                '"size": "20.8 MB"}, {"name": '
+                '"\\u88f8\\u804a\\u76f4\\u64ad,\\u53ef\\u4ee5\\u6307\\u63ee\\u6f6e\\u5439\\u8868\\u6f14 '
+                'A57X.COM.mp4", "size": "20.0 MB"}, {"name": '
+                '"\\u2605\\u2605\\u2605\\u2605\\u7f8e\\u5973\\u88f8\\u804a\\uff0c\\u514d\\u8d39\\u8bd5\\u770b\\u8bf7\\u8f93\\u5165\\u7f51\\u5740uu392.com '
+                '\\u2605\\u2605\\u2605\\u2605.mp4", "size": "19.8 MB"}, '
+                '{"name": '
+                '"\\u5954\\u9a70\\u5b9d\\u9a6c\\u5a31\\u4e50\\u57ce-www.885522.com-\\u6ce8\\u518c\\u514d\\u8d39\\u900155\\u5143.mp4", '
+                '"size": "7.9 MB"}, {"name": '
+                '"\\u7f8e\\u5973\\u8377\\u5b98\\u81ea\\u62cd\\u88ab\\u5e72vip1196.mp4", '
+                '"size": "7.7 MB"}, {"name": '
+                '"MG\\u7535\\u5b50\\u6e38\\u620f-www.334477.com-\\u6ce8\\u518c\\u514d\\u8d39\\u900177\\u5143.mp4", '
+                '"size": "7.6 MB"}, {"name": "mo5577.net~Free Adult Movie, '
+                'Fastest & Newest Porn Movie Site.jpg", "size": "1.9 MB"}, '
+                '{"name": '
+                '"mo5577.net~\\u81ea\\u7531\\u306a\\u6210\\u4eba\\u6620\\u753b\\u3001\\u6700\\u3082\\u901f\\u304f&\\u6700\\u65b0\\u30dd\\u30eb\\u30ce\\u6620\\u753b\\u30b5\\u30a4\\u30c8.jpg", '
+                '"size": "1.9 MB"}, {"name": "UU\\u88f8\\u804aAY456.COM.gif", '
+                '"size": "1.8 MB"}, {"name": "\\u6700\\u65b0\\u6210\\u4ebaAV '
+                'X8B9.COM.gif", "size": "1.5 MB"}, {"name": '
+                '"\\u540c\\u57ce\\u4ea4\\u53cbKKM56.COM.gif", "size": "233.6 '
+                'KB"}, {"name": "1024\\u8349\\u69b4\\u793e\\u5340 '
+                't66y.com.jpg", "size": "152.1 KB"}, {"name": '
+                '"\\u2605\\u2605\\u2605\\u2605\\u7f8e\\u5973\\u88f8\\u804a\\uff0c\\u514d\\u8d39\\u8bd5\\u770b\\u8bf7\\u8f93\\u5165\\u7f51\\u5740uu392.com '
+                '\\u2605\\u2605\\u2605\\u2605.gif", "size": "74.2 KB"}, '
+                '{"name": '
+                '"ty997.com~\\u6fc0\\u60c5\\u88f8\\u804a\\u96a8\\u6642\\u770b.gif", '
+                '"size": "43.9 KB"}, {"name": '
+                '"2048\\u6700\\u65b0\\u5730\\u5740 '
+                'UC\\u700f\\u89bd\\u5668\\u6383.png", "size": "9.4 KB"}, '
+                '{"name": "2048\\u6838\\u57fa\\u5730  '
+                '2048\\u793e\\u533a\\u6700\\u65b0\\u5730\\u5740.mht", "size": '
+                '"2.5 KB"}, {"name": '
+                '"[\\u65e5\\u6b50\\u540c\\u6b65]\\u65b0\\u7247\\u5408\\u96c6 '
+                '\\u65b0\\u7247\\u9996\\u767c.mht", "size": "2.5 KB"}, '
+                '{"name": "\\u51e4\\u51f0\\u5a1b\\u6a02~vip1135.url", "size": '
+                '"253 bytes"}, {"name": '
+                '"\\u51e4\\u51f0\\u5a1b\\u6a02~vip1196.url", "size": "253 '
+                'bytes"}, {"name": "\\u51e4\\u51f0\\u5a1b\\u6a02~vip3309.url", '
+                '"size": "253 bytes"}, {"name": '
+                '"\\u3010\\u9b54\\u738b\\u306e\\u5bb6\\u3011~\\u6700\\u65b0\\u6700\\u5feb\\u7684\\u8cc7\\u8a0a\\u5e73\\u53f0,diobbs88.net.url", '
+                '"size": "227 bytes"}, {"name": '
+                '"mo5577.net~\\u6700\\u65b0\\u6700\\u5feb\\u7684AV\\u5f71\\u7247\\u6bcf\\u65e5\\u66f4\\u65b0.url", '
+                '"size": "207 bytes"}, {"name": '
+                '"18p2p@18p2p\\u7db2\\u5740\\u767c\\u4f48\\u9801.url", "size": '
+                '"186 bytes"}, {"name": '
+                '"\\u3010\\u9b54\\u738b\\u5728\\u7dda\\u3011~\\u7d66\\u60a8\\u7121\\u9650\\u7684AV\\u5feb\\u611f(javccup.net).url", '
+                '"size": "176 bytes"}, {"name": "AVDVD '
+                '\\u6210\\u4eba\\u5149\\u789f.url", "size": "166 bytes"}, '
+                '{"name": '
+                '"\\u795e\\u8a71~\\u6700\\u65b0AV\\u514d\\u8cbb\\u64ad\\u653e~\\u9ede\\u64ca\\u5373\\u770b\\u4e0d\\u56c9\\u55e6~sav6688.com.url", '
+                '"size": "166 bytes"}, {"name": "AV '
+                'Day-\\u7d9c\\u5408\\u7ad9-avday666.com.url", "size": "129 '
+                'bytes"}, {"name": '
+                '"\\u3010\\u9b54\\u738b\\u5728\\u7dda\\u3011~\\u7d66\\u60a8\\u7121\\u9650\\u7684AV\\u5feb\\u611f(javccup.net).txt", '
+                '"size": "52 bytes"}, {"name": '
+                '"2048\\u5730\\u5740\\u767c\\u4f48\\u9801.txt", "size": "35 '
+                'bytes"}]',
+ 'source_name': 'hjd2048.com_181220海哥大战高素质文雅美女老师身材太好了-15',
+ 'source_size': '1.0 GB'}
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1193, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 509, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry 'https://www.bturl.so/3BB9AF9F88682B4DECA163E59B37CD7B59D3504C.ht' for key 'old_link'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/wukt/PycharmProjects/bt_spider/bt/pipelines.py", line 51, in process_item
+    self.sess.commit()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 954, in commit
+    self.transaction.commit()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 467, in commit
+    self._prepare_impl()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 447, in _prepare_impl
+    self.session.flush()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2313, in flush
+    self._flush(objects)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2440, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 249, in reraise
+    raise value
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2404, in _flush
+    flush_context.execute()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 395, in execute
+    rec.execute(self)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 560, in execute
+    uow
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 181, in save_obj
+    mapper, table, insert)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 872, in _emit_insert_statements
+    execute(statement, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 948, in execute
+    return meth(self, multiparams, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 269, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1060, in _execute_clauseelement
+    compiled_sql, distilled_params
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1200, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1413, in _handle_dbapi_exception
+    exc_info
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 265, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 248, in reraise
+    raise value.with_traceback(tb)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1193, in _execute_context
+    context)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 509, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry 'https://www.bturl.so/3BB9AF9F88682B4DECA163E59B37CD7B59D3504C.ht' for key 'old_link'") [SQL: 'INSERT INTO links (source_name, create_time, source_size, source_link, source_list, source_hot, old_link, insert_time, item_id) VALUES (%(source_name)s, %(create_time)s, %(source_size)s, %(source_link)s, %(source_list)s, %(source_hot)s, %(old_link)s, %(insert_time)s, %(item_id)s)'] [parameters: {'source_hot': '10', 'source_name': 'hjd2048.com_181220海哥大战高素质文雅美女老师身材太好了-15', 'source_list': '[{"name": "hjd2048.com_181220-15.mp4", "size": "811.1 MB"}, {"name": "hjd2048.com_181220-15-5.mp4", "size": "141.4 MB"}, {"name": "\\u53f0\\u6e7eUU\\ ... (3187 characters truncated) ... 21\\u9650\\u7684AV\\u5feb\\u611f(javccup.net).txt", "size": "52 bytes"}, {"name": "2048\\u5730\\u5740\\u767c\\u4f48\\u9801.txt", "size": "35 bytes"}]', 'create_time': '2018-12-21', 'old_link': 'https://www.bturl.so/3BB9AF9F88682B4DECA163E59B37CD7B59D3504C.html', 'source_link': 'magnet:?xt=urn:btih:3BB9AF9F88682B4DECA163E59B37CD7B59D3504C', 'source_size': '1.0 GB', 'item_id': None, 'insert_time': datetime.datetime(2018, 12, 23, 19, 50, 28, 865646)}] (Background on this error at: http://sqlalche.me/e/gkpj)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/wukt/.local/virtualenvs/scrapy/lib/python3.5/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/wukt/PycharmProjects/bt_spider/bt/pipelines.py", line 59, in process_item
+    logging.ERROR("link: {}, exception : {}".format(item['old_link'], e.args))
+TypeError: 'int' object is not callable

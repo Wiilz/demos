@@ -1,0 +1,13 @@
+setup.py
+bt/__init__.py
+bt/items.py
+bt/middlewares.py
+bt/pipelines.py
+bt/settings.py
+bt/spiders/__init__.py
+bt/spiders/btspider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
